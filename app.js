@@ -6,7 +6,7 @@
 
 
 var GCM = require('./gcm');
-var apikey = 'AIzaSyAuJk1Sf54ZbNw0LiT5t67C97QuWg2uW9s';
+var apikey = 'API_KEY'
 //var gcmSender = new gcm.Sender(apikey);
 
 var request = require('request');
